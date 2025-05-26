@@ -4,5 +4,7 @@
 <p>This is the NextWork web app working!</p>
 <p>I am writing this line using nano instead of IDE.</p>
 <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
+<p> Now I updated the credentials to remember them next time.</p>
+<p>test N1</p>
 </body>
 </html>
