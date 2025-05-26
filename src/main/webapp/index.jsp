@@ -6,5 +6,6 @@
 <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
 <p> Now I updated the credentials to remember them next time.</p>
 <p>test N1</p>
+<p>test N2</p>
 </body>
 </html>
