@@ -8,6 +8,8 @@
 <p>Day 5 CodeDelpoy connection test</p>
 <p>Day 7 CodePipline connection test</p>
 <p>Day 7/2 CodePipline initial connection test</p>
+<p>If you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
+
 
 
 <p>
